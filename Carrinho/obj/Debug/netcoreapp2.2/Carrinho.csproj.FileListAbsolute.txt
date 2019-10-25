@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios\Carrinho\bin\Debug\netcoreapp2.2\Carrinho.deps.json
+C:\Users\48531730805\Documents\Exercicios\Carrinho\bin\Debug\netcoreapp2.2\Carrinho.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios\Carrinho\bin\Debug\netcoreapp2.2\Carrinho.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios\Carrinho\bin\Debug\netcoreapp2.2\Carrinho.dll
+C:\Users\48531730805\Documents\Exercicios\Carrinho\bin\Debug\netcoreapp2.2\Carrinho.pdb
+C:\Users\48531730805\Documents\Exercicios\Carrinho\obj\Debug\netcoreapp2.2\Carrinho.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios\Carrinho\obj\Debug\netcoreapp2.2\Carrinho.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios\Carrinho\obj\Debug\netcoreapp2.2\Carrinho.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios\Carrinho\obj\Debug\netcoreapp2.2\Carrinho.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios\Carrinho\obj\Debug\netcoreapp2.2\Carrinho.dll
+C:\Users\48531730805\Documents\Exercicios\Carrinho\obj\Debug\netcoreapp2.2\Carrinho.pdb

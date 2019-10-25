@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\bin\Debug\netcoreapp2.2\NomeAlfabetico.deps.json
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\bin\Debug\netcoreapp2.2\NomeAlfabetico.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\bin\Debug\netcoreapp2.2\NomeAlfabetico.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\bin\Debug\netcoreapp2.2\NomeAlfabetico.dll
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\bin\Debug\netcoreapp2.2\NomeAlfabetico.pdb
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\obj\Debug\netcoreapp2.2\NomeAlfabetico.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\obj\Debug\netcoreapp2.2\NomeAlfabetico.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\obj\Debug\netcoreapp2.2\NomeAlfabetico.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\obj\Debug\netcoreapp2.2\NomeAlfabetico.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\obj\Debug\netcoreapp2.2\NomeAlfabetico.dll
+C:\Users\48531730805\Documents\Exercicios\NomeAlfabetico\obj\Debug\netcoreapp2.2\NomeAlfabetico.pdb

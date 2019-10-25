@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\obj\Debug\netcoreapp2.2\TrianguloInvertido.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\obj\Debug\netcoreapp2.2\TrianguloInvertido.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\obj\Debug\netcoreapp2.2\TrianguloInvertido.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\obj\Debug\netcoreapp2.2\TrianguloInvertido.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\bin\Debug\netcoreapp2.2\TrianguloInvertido.deps.json
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\bin\Debug\netcoreapp2.2\TrianguloInvertido.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\bin\Debug\netcoreapp2.2\TrianguloInvertido.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\bin\Debug\netcoreapp2.2\TrianguloInvertido.dll
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\bin\Debug\netcoreapp2.2\TrianguloInvertido.pdb
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\obj\Debug\netcoreapp2.2\TrianguloInvertido.dll
+C:\Users\48531730805\Documents\Exercicios\TrianguloInvertido\obj\Debug\netcoreapp2.2\TrianguloInvertido.pdb

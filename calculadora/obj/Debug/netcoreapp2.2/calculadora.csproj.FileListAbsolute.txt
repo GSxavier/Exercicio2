@@ -1,0 +1,11 @@
+C:\Users\49801332824\Documents\Exercicios\calculadora\bin\Debug\netcoreapp2.2\calculadora.deps.json
+C:\Users\49801332824\Documents\Exercicios\calculadora\bin\Debug\netcoreapp2.2\calculadora.runtimeconfig.json
+C:\Users\49801332824\Documents\Exercicios\calculadora\bin\Debug\netcoreapp2.2\calculadora.runtimeconfig.dev.json
+C:\Users\49801332824\Documents\Exercicios\calculadora\bin\Debug\netcoreapp2.2\calculadora.dll
+C:\Users\49801332824\Documents\Exercicios\calculadora\bin\Debug\netcoreapp2.2\calculadora.pdb
+C:\Users\49801332824\Documents\Exercicios\calculadora\obj\Debug\netcoreapp2.2\calculadora.csprojAssemblyReference.cache
+C:\Users\49801332824\Documents\Exercicios\calculadora\obj\Debug\netcoreapp2.2\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\49801332824\Documents\Exercicios\calculadora\obj\Debug\netcoreapp2.2\calculadora.AssemblyInfoInputs.cache
+C:\Users\49801332824\Documents\Exercicios\calculadora\obj\Debug\netcoreapp2.2\calculadora.AssemblyInfo.cs
+C:\Users\49801332824\Documents\Exercicios\calculadora\obj\Debug\netcoreapp2.2\calculadora.dll
+C:\Users\49801332824\Documents\Exercicios\calculadora\obj\Debug\netcoreapp2.2\calculadora.pdb

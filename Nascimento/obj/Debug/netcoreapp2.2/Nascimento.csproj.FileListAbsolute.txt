@@ -1,0 +1,11 @@
+C:\Users\49801332824\Documents\Exercicios\Nascimento\obj\Debug\netcoreapp2.2\Nascimento.csprojAssemblyReference.cache
+C:\Users\49801332824\Documents\Exercicios\Nascimento\obj\Debug\netcoreapp2.2\Nascimento.csproj.CoreCompileInputs.cache
+C:\Users\49801332824\Documents\Exercicios\Nascimento\obj\Debug\netcoreapp2.2\Nascimento.AssemblyInfoInputs.cache
+C:\Users\49801332824\Documents\Exercicios\Nascimento\obj\Debug\netcoreapp2.2\Nascimento.AssemblyInfo.cs
+C:\Users\49801332824\Documents\Exercicios\Nascimento\bin\Debug\netcoreapp2.2\Nascimento.deps.json
+C:\Users\49801332824\Documents\Exercicios\Nascimento\bin\Debug\netcoreapp2.2\Nascimento.runtimeconfig.json
+C:\Users\49801332824\Documents\Exercicios\Nascimento\bin\Debug\netcoreapp2.2\Nascimento.runtimeconfig.dev.json
+C:\Users\49801332824\Documents\Exercicios\Nascimento\bin\Debug\netcoreapp2.2\Nascimento.dll
+C:\Users\49801332824\Documents\Exercicios\Nascimento\bin\Debug\netcoreapp2.2\Nascimento.pdb
+C:\Users\49801332824\Documents\Exercicios\Nascimento\obj\Debug\netcoreapp2.2\Nascimento.dll
+C:\Users\49801332824\Documents\Exercicios\Nascimento\obj\Debug\netcoreapp2.2\Nascimento.pdb

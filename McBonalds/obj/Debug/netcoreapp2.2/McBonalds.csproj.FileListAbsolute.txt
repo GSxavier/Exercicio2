@@ -1,0 +1,11 @@
+C:\Users\49801332824\Documents\Exercicios\McBonalds\bin\Debug\netcoreapp2.2\McBonalds.deps.json
+C:\Users\49801332824\Documents\Exercicios\McBonalds\bin\Debug\netcoreapp2.2\McBonalds.runtimeconfig.json
+C:\Users\49801332824\Documents\Exercicios\McBonalds\bin\Debug\netcoreapp2.2\McBonalds.runtimeconfig.dev.json
+C:\Users\49801332824\Documents\Exercicios\McBonalds\bin\Debug\netcoreapp2.2\McBonalds.dll
+C:\Users\49801332824\Documents\Exercicios\McBonalds\bin\Debug\netcoreapp2.2\McBonalds.pdb
+C:\Users\49801332824\Documents\Exercicios\McBonalds\obj\Debug\netcoreapp2.2\McBonalds.csprojAssemblyReference.cache
+C:\Users\49801332824\Documents\Exercicios\McBonalds\obj\Debug\netcoreapp2.2\McBonalds.csproj.CoreCompileInputs.cache
+C:\Users\49801332824\Documents\Exercicios\McBonalds\obj\Debug\netcoreapp2.2\McBonalds.AssemblyInfoInputs.cache
+C:\Users\49801332824\Documents\Exercicios\McBonalds\obj\Debug\netcoreapp2.2\McBonalds.AssemblyInfo.cs
+C:\Users\49801332824\Documents\Exercicios\McBonalds\obj\Debug\netcoreapp2.2\McBonalds.dll
+C:\Users\49801332824\Documents\Exercicios\McBonalds\obj\Debug\netcoreapp2.2\McBonalds.pdb

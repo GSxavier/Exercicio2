@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios\Planeta\obj\Debug\netcoreapp2.2\Planeta.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios\Planeta\obj\Debug\netcoreapp2.2\Planeta.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios\Planeta\obj\Debug\netcoreapp2.2\Planeta.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios\Planeta\obj\Debug\netcoreapp2.2\Planeta.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios\Planeta\bin\Debug\netcoreapp2.2\Planeta.deps.json
+C:\Users\48531730805\Documents\Exercicios\Planeta\bin\Debug\netcoreapp2.2\Planeta.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios\Planeta\bin\Debug\netcoreapp2.2\Planeta.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios\Planeta\bin\Debug\netcoreapp2.2\Planeta.dll
+C:\Users\48531730805\Documents\Exercicios\Planeta\bin\Debug\netcoreapp2.2\Planeta.pdb
+C:\Users\48531730805\Documents\Exercicios\Planeta\obj\Debug\netcoreapp2.2\Planeta.dll
+C:\Users\48531730805\Documents\Exercicios\Planeta\obj\Debug\netcoreapp2.2\Planeta.pdb

@@ -1,0 +1,11 @@
+C:\Users\49801332824\Documents\Exercicios\Impar100\obj\Debug\netcoreapp2.2\Impar100.csprojAssemblyReference.cache
+C:\Users\49801332824\Documents\Exercicios\Impar100\obj\Debug\netcoreapp2.2\Impar100.csproj.CoreCompileInputs.cache
+C:\Users\49801332824\Documents\Exercicios\Impar100\obj\Debug\netcoreapp2.2\Impar100.AssemblyInfoInputs.cache
+C:\Users\49801332824\Documents\Exercicios\Impar100\obj\Debug\netcoreapp2.2\Impar100.AssemblyInfo.cs
+C:\Users\49801332824\Documents\Exercicios\Impar100\bin\Debug\netcoreapp2.2\Impar100.deps.json
+C:\Users\49801332824\Documents\Exercicios\Impar100\bin\Debug\netcoreapp2.2\Impar100.runtimeconfig.json
+C:\Users\49801332824\Documents\Exercicios\Impar100\bin\Debug\netcoreapp2.2\Impar100.runtimeconfig.dev.json
+C:\Users\49801332824\Documents\Exercicios\Impar100\bin\Debug\netcoreapp2.2\Impar100.dll
+C:\Users\49801332824\Documents\Exercicios\Impar100\bin\Debug\netcoreapp2.2\Impar100.pdb
+C:\Users\49801332824\Documents\Exercicios\Impar100\obj\Debug\netcoreapp2.2\Impar100.dll
+C:\Users\49801332824\Documents\Exercicios\Impar100\obj\Debug\netcoreapp2.2\Impar100.pdb

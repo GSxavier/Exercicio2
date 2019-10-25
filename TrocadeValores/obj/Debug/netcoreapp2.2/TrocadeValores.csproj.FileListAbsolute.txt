@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\bin\Debug\netcoreapp2.2\TrocadeValores.deps.json
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\bin\Debug\netcoreapp2.2\TrocadeValores.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\bin\Debug\netcoreapp2.2\TrocadeValores.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\bin\Debug\netcoreapp2.2\TrocadeValores.dll
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\bin\Debug\netcoreapp2.2\TrocadeValores.pdb
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\obj\Debug\netcoreapp2.2\TrocadeValores.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\obj\Debug\netcoreapp2.2\TrocadeValores.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\obj\Debug\netcoreapp2.2\TrocadeValores.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\obj\Debug\netcoreapp2.2\TrocadeValores.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\obj\Debug\netcoreapp2.2\TrocadeValores.dll
+C:\Users\48531730805\Documents\Exercicios\TrocadeValores\obj\Debug\netcoreapp2.2\TrocadeValores.pdb

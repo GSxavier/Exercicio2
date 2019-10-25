@@ -1,0 +1,11 @@
+C:\Users\49801332824\Documents\Exercicios\Aluno\bin\Debug\netcoreapp2.2\Aluno.deps.json
+C:\Users\49801332824\Documents\Exercicios\Aluno\bin\Debug\netcoreapp2.2\Aluno.runtimeconfig.json
+C:\Users\49801332824\Documents\Exercicios\Aluno\bin\Debug\netcoreapp2.2\Aluno.runtimeconfig.dev.json
+C:\Users\49801332824\Documents\Exercicios\Aluno\bin\Debug\netcoreapp2.2\Aluno.dll
+C:\Users\49801332824\Documents\Exercicios\Aluno\bin\Debug\netcoreapp2.2\Aluno.pdb
+C:\Users\49801332824\Documents\Exercicios\Aluno\obj\Debug\netcoreapp2.2\Aluno.csprojAssemblyReference.cache
+C:\Users\49801332824\Documents\Exercicios\Aluno\obj\Debug\netcoreapp2.2\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\49801332824\Documents\Exercicios\Aluno\obj\Debug\netcoreapp2.2\Aluno.AssemblyInfoInputs.cache
+C:\Users\49801332824\Documents\Exercicios\Aluno\obj\Debug\netcoreapp2.2\Aluno.AssemblyInfo.cs
+C:\Users\49801332824\Documents\Exercicios\Aluno\obj\Debug\netcoreapp2.2\Aluno.dll
+C:\Users\49801332824\Documents\Exercicios\Aluno\obj\Debug\netcoreapp2.2\Aluno.pdb

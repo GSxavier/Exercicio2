@@ -1,0 +1,11 @@
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\bin\Debug\netcoreapp2.2\Todolist.deps.json
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\bin\Debug\netcoreapp2.2\Todolist.runtimeconfig.json
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\bin\Debug\netcoreapp2.2\Todolist.runtimeconfig.dev.json
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\bin\Debug\netcoreapp2.2\Todolist.dll
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\bin\Debug\netcoreapp2.2\Todolist.pdb
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\obj\Debug\netcoreapp2.2\Todolist.csprojAssemblyReference.cache
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\obj\Debug\netcoreapp2.2\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\obj\Debug\netcoreapp2.2\Todolist.AssemblyInfoInputs.cache
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\obj\Debug\netcoreapp2.2\Todolist.AssemblyInfo.cs
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\obj\Debug\netcoreapp2.2\Todolist.dll
+C:\Users\49801332824\Documents\Exercicios\TodoList\Todolist\obj\Debug\netcoreapp2.2\Todolist.pdb

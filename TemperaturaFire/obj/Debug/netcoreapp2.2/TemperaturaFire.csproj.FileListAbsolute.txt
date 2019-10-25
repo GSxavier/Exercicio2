@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\bin\Debug\netcoreapp2.2\TemperaturaFire.deps.json
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\bin\Debug\netcoreapp2.2\TemperaturaFire.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\bin\Debug\netcoreapp2.2\TemperaturaFire.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\bin\Debug\netcoreapp2.2\TemperaturaFire.dll
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\bin\Debug\netcoreapp2.2\TemperaturaFire.pdb
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\obj\Debug\netcoreapp2.2\TemperaturaFire.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\obj\Debug\netcoreapp2.2\TemperaturaFire.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\obj\Debug\netcoreapp2.2\TemperaturaFire.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\obj\Debug\netcoreapp2.2\TemperaturaFire.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\obj\Debug\netcoreapp2.2\TemperaturaFire.dll
+C:\Users\48531730805\Documents\Exercicios\TemperaturaFire\obj\Debug\netcoreapp2.2\TemperaturaFire.pdb
