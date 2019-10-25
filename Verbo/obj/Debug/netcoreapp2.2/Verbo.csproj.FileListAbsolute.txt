@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\Verbo\bin\Debug\netcoreapp2.2\Verbo.deps.json
+C:\Users\48531730805\Documents\Exercicios2\Verbo\bin\Debug\netcoreapp2.2\Verbo.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\Verbo\bin\Debug\netcoreapp2.2\Verbo.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\Verbo\bin\Debug\netcoreapp2.2\Verbo.dll
+C:\Users\48531730805\Documents\Exercicios2\Verbo\bin\Debug\netcoreapp2.2\Verbo.pdb
+C:\Users\48531730805\Documents\Exercicios2\Verbo\obj\Debug\netcoreapp2.2\Verbo.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\Verbo\obj\Debug\netcoreapp2.2\Verbo.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Verbo\obj\Debug\netcoreapp2.2\Verbo.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Verbo\obj\Debug\netcoreapp2.2\Verbo.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\Verbo\obj\Debug\netcoreapp2.2\Verbo.dll
+C:\Users\48531730805\Documents\Exercicios2\Verbo\obj\Debug\netcoreapp2.2\Verbo.pdb

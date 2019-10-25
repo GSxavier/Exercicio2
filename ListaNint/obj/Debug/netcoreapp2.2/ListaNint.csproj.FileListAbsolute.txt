@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\obj\Debug\netcoreapp2.2\ListaNint.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\obj\Debug\netcoreapp2.2\ListaNint.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\obj\Debug\netcoreapp2.2\ListaNint.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\obj\Debug\netcoreapp2.2\ListaNint.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\bin\Debug\netcoreapp2.2\ListaNint.deps.json
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\bin\Debug\netcoreapp2.2\ListaNint.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\bin\Debug\netcoreapp2.2\ListaNint.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\bin\Debug\netcoreapp2.2\ListaNint.dll
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\bin\Debug\netcoreapp2.2\ListaNint.pdb
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\obj\Debug\netcoreapp2.2\ListaNint.dll
+C:\Users\48531730805\Documents\Exercicios2\ListaNint\obj\Debug\netcoreapp2.2\ListaNint.pdb

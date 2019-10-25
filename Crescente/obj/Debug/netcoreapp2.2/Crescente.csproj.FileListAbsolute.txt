@@ -9,3 +9,14 @@ C:\Users\48531730805\Documents\Exercicios\Crescente\bin\Debug\netcoreapp2.2\Cres
 C:\Users\48531730805\Documents\Exercicios\Crescente\bin\Debug\netcoreapp2.2\Crescente.pdb
 C:\Users\48531730805\Documents\Exercicios\Crescente\obj\Debug\netcoreapp2.2\Crescente.dll
 C:\Users\48531730805\Documents\Exercicios\Crescente\obj\Debug\netcoreapp2.2\Crescente.pdb
+C:\Users\48531730805\Documents\Exercicios2\Crescente\bin\Debug\netcoreapp2.2\Crescente.deps.json
+C:\Users\48531730805\Documents\Exercicios2\Crescente\bin\Debug\netcoreapp2.2\Crescente.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\Crescente\bin\Debug\netcoreapp2.2\Crescente.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\Crescente\bin\Debug\netcoreapp2.2\Crescente.dll
+C:\Users\48531730805\Documents\Exercicios2\Crescente\bin\Debug\netcoreapp2.2\Crescente.pdb
+C:\Users\48531730805\Documents\Exercicios2\Crescente\obj\Debug\netcoreapp2.2\Crescente.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\Crescente\obj\Debug\netcoreapp2.2\Crescente.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\Crescente\obj\Debug\netcoreapp2.2\Crescente.dll
+C:\Users\48531730805\Documents\Exercicios2\Crescente\obj\Debug\netcoreapp2.2\Crescente.pdb

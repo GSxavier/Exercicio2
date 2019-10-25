@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\obj\Debug\netcoreapp2.2\Trianguloscla.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\obj\Debug\netcoreapp2.2\Trianguloscla.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\obj\Debug\netcoreapp2.2\Trianguloscla.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\obj\Debug\netcoreapp2.2\Trianguloscla.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\bin\Debug\netcoreapp2.2\Trianguloscla.deps.json
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\bin\Debug\netcoreapp2.2\Trianguloscla.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\bin\Debug\netcoreapp2.2\Trianguloscla.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\bin\Debug\netcoreapp2.2\Trianguloscla.dll
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\bin\Debug\netcoreapp2.2\Trianguloscla.pdb
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\obj\Debug\netcoreapp2.2\Trianguloscla.dll
+C:\Users\48531730805\Documents\Exercicios2\Trianguloscla\obj\Debug\netcoreapp2.2\Trianguloscla.pdb

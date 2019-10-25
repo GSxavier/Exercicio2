@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\bin\Debug\netcoreapp2.2\Imparmenor.deps.json
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\bin\Debug\netcoreapp2.2\Imparmenor.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\bin\Debug\netcoreapp2.2\Imparmenor.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\bin\Debug\netcoreapp2.2\Imparmenor.dll
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\bin\Debug\netcoreapp2.2\Imparmenor.pdb
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\obj\Debug\netcoreapp2.2\Imparmenor.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\obj\Debug\netcoreapp2.2\Imparmenor.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\obj\Debug\netcoreapp2.2\Imparmenor.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\obj\Debug\netcoreapp2.2\Imparmenor.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\obj\Debug\netcoreapp2.2\Imparmenor.dll
+C:\Users\48531730805\Documents\Exercicios2\Imparmenor\obj\Debug\netcoreapp2.2\Imparmenor.pdb
