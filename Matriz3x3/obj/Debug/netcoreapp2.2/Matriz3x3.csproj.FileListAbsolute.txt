@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\bin\Debug\netcoreapp2.2\Matriz3x3.deps.json
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\bin\Debug\netcoreapp2.2\Matriz3x3.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\bin\Debug\netcoreapp2.2\Matriz3x3.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\bin\Debug\netcoreapp2.2\Matriz3x3.dll
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\bin\Debug\netcoreapp2.2\Matriz3x3.pdb
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\obj\Debug\netcoreapp2.2\Matriz3x3.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\obj\Debug\netcoreapp2.2\Matriz3x3.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\obj\Debug\netcoreapp2.2\Matriz3x3.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\obj\Debug\netcoreapp2.2\Matriz3x3.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\obj\Debug\netcoreapp2.2\Matriz3x3.dll
+C:\Users\48531730805\Documents\Exercicios2\Matriz3x3\obj\Debug\netcoreapp2.2\Matriz3x3.pdb

@@ -11,7 +11,18 @@ namespace Matriz3x3
 
             int valor;
             Random numr = new Random();
-            int[,] mat = new int[colun,filei]
+            int[,] mat = new int[colun,filei];
+
+            for (int i = 0; i < filei; i++)
+            {   
+                for (int p = 0; p < colun; p++)
+                {
+                    valor = numr.Next(100);
+                    mat [i,p] = valor;
+                    System.Console.WriteLine($"Coluna{p+1} Fileira{i+1} {valor}");
+
+                }
+            }
         }
     }
 }
