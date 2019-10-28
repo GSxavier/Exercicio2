@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\bin\Debug\netcoreapp2.2\DuasListas.deps.json
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\bin\Debug\netcoreapp2.2\DuasListas.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\bin\Debug\netcoreapp2.2\DuasListas.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\bin\Debug\netcoreapp2.2\DuasListas.dll
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\bin\Debug\netcoreapp2.2\DuasListas.pdb
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\obj\Debug\netcoreapp2.2\DuasListas.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\obj\Debug\netcoreapp2.2\DuasListas.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\obj\Debug\netcoreapp2.2\DuasListas.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\obj\Debug\netcoreapp2.2\DuasListas.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\obj\Debug\netcoreapp2.2\DuasListas.dll
+C:\Users\48531730805\Documents\Exercicios2\DuasListas\obj\Debug\netcoreapp2.2\DuasListas.pdb

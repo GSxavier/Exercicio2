@@ -1,0 +1,11 @@
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\bin\Debug\netcoreapp2.2\ValoresListados.deps.json
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\bin\Debug\netcoreapp2.2\ValoresListados.runtimeconfig.json
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\bin\Debug\netcoreapp2.2\ValoresListados.runtimeconfig.dev.json
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\bin\Debug\netcoreapp2.2\ValoresListados.dll
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\bin\Debug\netcoreapp2.2\ValoresListados.pdb
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\obj\Debug\netcoreapp2.2\ValoresListados.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\obj\Debug\netcoreapp2.2\ValoresListados.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\obj\Debug\netcoreapp2.2\ValoresListados.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\obj\Debug\netcoreapp2.2\ValoresListados.AssemblyInfo.cs
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\obj\Debug\netcoreapp2.2\ValoresListados.dll
+C:\Users\48531730805\Documents\Exercicios2\ValoresListados\obj\Debug\netcoreapp2.2\ValoresListados.pdb
