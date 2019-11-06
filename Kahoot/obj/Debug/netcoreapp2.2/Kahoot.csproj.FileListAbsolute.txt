@@ -1,0 +1,4 @@
+C:\Users\48531730805\Documents\Exercicios2\Kahoot\obj\Debug\netcoreapp2.2\Kahoot.csprojAssemblyReference.cache
+C:\Users\48531730805\Documents\Exercicios2\Kahoot\obj\Debug\netcoreapp2.2\Kahoot.csproj.CoreCompileInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Kahoot\obj\Debug\netcoreapp2.2\Kahoot.AssemblyInfoInputs.cache
+C:\Users\48531730805\Documents\Exercicios2\Kahoot\obj\Debug\netcoreapp2.2\Kahoot.AssemblyInfo.cs

@@ -8,7 +8,7 @@ namespace Usuario
         {
             string login;
             string senhna;
-           
+
             Console.WriteLine("Login: ");
             login = Console.ReadLine();
 

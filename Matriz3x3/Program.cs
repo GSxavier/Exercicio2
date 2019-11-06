@@ -7,7 +7,7 @@ namespace Matriz3x3
         static void Main(string[] args)
         {
             int colun = 3;
-            int filei = 3;
+            int filei = 3;    
 
             int valor;
             Random numr = new Random();
