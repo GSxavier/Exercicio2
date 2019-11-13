@@ -2956,7 +2956,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 800
+    "CSharpLanguageVersion": 703
   },
   "RootNamespace": "McBonaldsMVC",
   "Documents": [
@@ -2998,6 +2998,11 @@
     {
       "FilePath": "Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Pedidos\\index.cshtml",
+      "TargetPath": "Views\\Pedidos\\index.cshtml",
       "FileKind": "mvc"
     },
     {

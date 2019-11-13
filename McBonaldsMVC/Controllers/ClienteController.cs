@@ -7,6 +7,7 @@ namespace McBonaldsMVC.Controllers {
         public IActionResult Login () {
             return View ();
         }
+        [HttpPost]
         public IActionResult Login (IFormCollection form)
         {
             ViewData ["Action "] = "Login ";
