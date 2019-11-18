@@ -130,3 +130,4 @@ C:\Users\48531730805\Documents\Exercicios2\McBonaldsMVC\obj\Debug\netcoreapp2.2\
 C:\Users\48531730805\Documents\Exercicios2\McBonaldsMVC\obj\Debug\netcoreapp2.2\McBonaldsMVC.dll
 C:\Users\48531730805\Documents\Exercicios2\McBonaldsMVC\obj\Debug\netcoreapp2.2\McBonaldsMVC.pdb
 C:\Users\48531730805\Documents\Exercicios2\McBonaldsMVC\obj\Debug\netcoreapp2.2\McBonaldsMVC.csproj.CopyComplete
+c:\Users\48531730805\Documents\Exercicios2\McBonaldsMVC\obj\Debug\netcoreapp2.2\Razor\Views\Pedido\Index.g.cshtml.cs

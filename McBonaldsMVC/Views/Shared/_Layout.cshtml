@@ -37,15 +37,15 @@
                             <i class="fa fa-bars"></i>
                         </a>
                     </li>
-                    <!-- PASSO 4 - Adicione essa class="bt-common-menu" nas suas li -->
+                    <!-- PASSO 4 - Adicione essa class="bt-common-menu" nas suas li-->
                     <!-- PASSO 5 - Adicione o onclick="toggleMobileMenu()" nas tags a -->
-                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" asp-asp-controller = "Home" asp-action = "Index" class="active">Principal</a></li>
+                    <li class="bt-common-menu"><a onclick="toggleMobileMenu()" asp-controller = "Home" asp-action = "Index" class="active">Principal</a></li>
                     <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("index" , "Home")#hamburgueres'>Hamburgueres</a></li>
                     <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("index" , "Home")#shakes'>Shakes</a></li>
                     <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("index" , "Home")#historia'>História</a></li>
                     <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href='@Url.Action("index" , "Home")#local'>Local</a></li>
                     <li class="bt-common-menu"><a onclick="toggleMobileMenu()" asp-controller="Cliente" asp-action="Login">Login</a></li>
-                    <li><a id="bt-peca_ja" href="pedidos.html">Peça já!</a></li>
+                    <li><a id="bt-peca_ja" asp-controller="Pedido" asp-action="Index">Peça já!</a></li>
                 </ul>
             </div>
         </nav>

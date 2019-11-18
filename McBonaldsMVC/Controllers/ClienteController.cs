@@ -7,6 +7,7 @@ namespace McBonaldsMVC.Controllers {
         public IActionResult Login () {
             return View ();
         }
+        
         [HttpPost]
         public IActionResult Login (IFormCollection form)
         {
@@ -17,6 +18,10 @@ namespace McBonaldsMVC.Controllers {
                 System.Console.WriteLine(form ["email"]);
                 System.Console.WriteLine(form["senha"]);
                 System.Console.WriteLine("======================");
+
+                var usuario = form ["email"];
+                var senha = form["senha"];
+                
                 return View("Sucesso");
 
             }

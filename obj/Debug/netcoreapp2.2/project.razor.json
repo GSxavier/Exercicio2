@@ -2956,7 +2956,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 800
+    "CSharpLanguageVersion": 703
   },
   "RootNamespace": "Exercicios2",
   "Documents": [
@@ -2991,6 +2991,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "McBonaldsMVC\\Views\\Shared\\Sucesso.cshtml",
+      "TargetPath": "McBonaldsMVC\\Views\\Shared\\Sucesso.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "McBonaldsMVC\\Views\\_ViewStart.cshtml",
       "TargetPath": "McBonaldsMVC\\Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -3016,6 +3021,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "McBonaldsMVC\\Views\\Cliente\\Login.cshtml",
+      "TargetPath": "McBonaldsMVC\\Views\\Cliente\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "McBonaldsMVC\\Views\\Cadastro\\Index.cshtml",
+      "TargetPath": "McBonaldsMVC\\Views\\Cadastro\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "McBonaldsMVC\\Views\\Shared\\_HeaderHomePage.cshtml",
+      "TargetPath": "McBonaldsMVC\\Views\\Shared\\_HeaderHomePage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "McBonaldsMVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "McBonaldsMVC\\Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -3033,6 +3053,11 @@
     {
       "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "McBonaldsMVC\\Views\\Pedido\\Index.cshtml",
+      "TargetPath": "McBonaldsMVC\\Views\\Pedido\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
